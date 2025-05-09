@@ -1,7 +1,7 @@
 import Page from "classes/Page";
 // import cube from "vendors/cube";
 import gsap from "gsap";
-import { ScrollTrigger } from "gsap";
+import ScrollTrigger from "gsap/ScrollTrigger";
 import { delay } from "utils/math";
 import Ukiyo from "ukiyojs";
 import { TimelineMax } from "gsap";
