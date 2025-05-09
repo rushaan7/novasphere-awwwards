@@ -1,6 +1,8 @@
 {
     "version": 2,
     "name": "novasphere-awwwards",
+    "buildCommand": "npm install && npm run frontend:build",
+    "outputDirectory": "public",
     "builds": [
         {
             "src": "app.mjs",
