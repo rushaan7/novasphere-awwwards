@@ -66,6 +66,7 @@
     "glslify": "^7.1.1",
     "glslify-loader": "^2.0.0",
     "gsap": "^3.12.5",
+    "gsap-trial": "^3.12.5",
     "html-webpack-plugin": "^5.5.0",
     "include-media": "^1.4.10",
     "lil-gui": "^0.16.1",
